@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @netgabo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-netgabo/netgabo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hola, soy @netgabo
+- 👀 Me interesa y apasiona el mundo de la programación, el ux/ui, el desarrollo de aplicaciones, blockchain, Apps y Dapps , base de datos, aprendizaje profundo e inteligencia artifical. 
+- 🌱 Actuelmente estoy explorando leguajes nuevos de programación, me gusta leer código, analizarlo y modificarlo. 
+- 💞️ Estoy abierto a colaborar en proyectos
+- 📫 Me puedes contactar a través de mi correo netgabo@gmail.com
